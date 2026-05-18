@@ -1,0 +1,442 @@
+[
+  {
+    "rank": 1,
+    "name": "择日读",
+    "totalPoints": 1692,
+    "standardPoints": {
+      "numerator": 215,
+      "denominator": 2,
+      "label": "107又1/2"
+    },
+    "standardPointPenalty": {
+      "numerator": 0,
+      "denominator": 1,
+      "label": "0"
+    },
+    "adjustedStandardPoints": {
+      "numerator": 215,
+      "denominator": 2,
+      "label": "107又1/2"
+    },
+    "averageStandardPoints": 2.24,
+    "matchCount": 48,
+    "placementCounts": {
+      "first": {
+        "numerator": 18,
+        "denominator": 1,
+        "label": "18"
+      },
+      "second": {
+        "numerator": 12,
+        "denominator": 1,
+        "label": "12"
+      },
+      "third": {
+        "numerator": 23,
+        "denominator": 2,
+        "label": "11又1/2"
+      },
+      "fourth": {
+        "numerator": 13,
+        "denominator": 2,
+        "label": "6又1/2"
+      }
+    }
+  },
+  {
+    "rank": 2,
+    "name": "绿小龙",
+    "totalPoints": 1119,
+    "standardPoints": {
+      "numerator": 95,
+      "denominator": 1,
+      "label": "95"
+    },
+    "standardPointPenalty": {
+      "numerator": 0,
+      "denominator": 1,
+      "label": "0"
+    },
+    "adjustedStandardPoints": {
+      "numerator": 95,
+      "denominator": 1,
+      "label": "95"
+    },
+    "averageStandardPoints": 1.98,
+    "matchCount": 48,
+    "placementCounts": {
+      "first": {
+        "numerator": 17,
+        "denominator": 1,
+        "label": "17"
+      },
+      "second": {
+        "numerator": 11,
+        "denominator": 1,
+        "label": "11"
+      },
+      "third": {
+        "numerator": 5,
+        "denominator": 1,
+        "label": "5"
+      },
+      "fourth": {
+        "numerator": 15,
+        "denominator": 1,
+        "label": "15"
+      }
+    }
+  },
+  {
+    "rank": 3,
+    "name": "青柠现代麻将文化研究协会",
+    "totalPoints": 30,
+    "standardPoints": {
+      "numerator": 93,
+      "denominator": 1,
+      "label": "93"
+    },
+    "standardPointPenalty": {
+      "numerator": 1,
+      "denominator": 1,
+      "label": "1"
+    },
+    "adjustedStandardPoints": {
+      "numerator": 92,
+      "denominator": 1,
+      "label": "92"
+    },
+    "averageStandardPoints": 1.94,
+    "matchCount": 48,
+    "placementCounts": {
+      "first": {
+        "numerator": 15,
+        "denominator": 1,
+        "label": "15"
+      },
+      "second": {
+        "numerator": 9,
+        "denominator": 1,
+        "label": "9"
+      },
+      "third": {
+        "numerator": 15,
+        "denominator": 1,
+        "label": "15"
+      },
+      "fourth": {
+        "numerator": 9,
+        "denominator": 1,
+        "label": "9"
+      }
+    }
+  },
+  {
+    "rank": 4,
+    "name": "复仇者联盟",
+    "totalPoints": 924,
+    "standardPoints": {
+      "numerator": 177,
+      "denominator": 2,
+      "label": "88又1/2"
+    },
+    "standardPointPenalty": {
+      "numerator": 0,
+      "denominator": 1,
+      "label": "0"
+    },
+    "adjustedStandardPoints": {
+      "numerator": 177,
+      "denominator": 2,
+      "label": "88又1/2"
+    },
+    "averageStandardPoints": 1.84,
+    "matchCount": 48,
+    "placementCounts": {
+      "first": {
+        "numerator": 10,
+        "denominator": 1,
+        "label": "10"
+      },
+      "second": {
+        "numerator": 17,
+        "denominator": 1,
+        "label": "17"
+      },
+      "third": {
+        "numerator": 29,
+        "denominator": 2,
+        "label": "14又1/2"
+      },
+      "fourth": {
+        "numerator": 13,
+        "denominator": 2,
+        "label": "6又1/2"
+      }
+    }
+  },
+  {
+    "rank": 5,
+    "name": "小鲨鱼动物园",
+    "totalPoints": 350,
+    "standardPoints": {
+      "numerator": 175,
+      "denominator": 2,
+      "label": "87又1/2"
+    },
+    "standardPointPenalty": {
+      "numerator": 0,
+      "denominator": 1,
+      "label": "0"
+    },
+    "adjustedStandardPoints": {
+      "numerator": 175,
+      "denominator": 2,
+      "label": "87又1/2"
+    },
+    "averageStandardPoints": 1.82,
+    "matchCount": 48,
+    "placementCounts": {
+      "first": {
+        "numerator": 10,
+        "denominator": 1,
+        "label": "10"
+      },
+      "second": {
+        "numerator": 35,
+        "denominator": 2,
+        "label": "17又1/2"
+      },
+      "third": {
+        "numerator": 25,
+        "denominator": 2,
+        "label": "12又1/2"
+      },
+      "fourth": {
+        "numerator": 8,
+        "denominator": 1,
+        "label": "8"
+      }
+    }
+  },
+  {
+    "rank": 6,
+    "name": "特邀——没上过沙袋",
+    "totalPoints": 183,
+    "standardPoints": {
+      "numerator": 87,
+      "denominator": 1,
+      "label": "87"
+    },
+    "standardPointPenalty": {
+      "numerator": 0,
+      "denominator": 1,
+      "label": "0"
+    },
+    "adjustedStandardPoints": {
+      "numerator": 87,
+      "denominator": 1,
+      "label": "87"
+    },
+    "averageStandardPoints": 1.81,
+    "matchCount": 48,
+    "placementCounts": {
+      "first": {
+        "numerator": 11,
+        "denominator": 1,
+        "label": "11"
+      },
+      "second": {
+        "numerator": 14,
+        "denominator": 1,
+        "label": "14"
+      },
+      "third": {
+        "numerator": 15,
+        "denominator": 1,
+        "label": "15"
+      },
+      "fourth": {
+        "numerator": 8,
+        "denominator": 1,
+        "label": "8"
+      }
+    }
+  },
+  {
+    "rank": 7,
+    "name": "云上秋雨",
+    "totalPoints": -129,
+    "standardPoints": {
+      "numerator": 88,
+      "denominator": 1,
+      "label": "88"
+    },
+    "standardPointPenalty": {
+      "numerator": 7,
+      "denominator": 1,
+      "label": "7"
+    },
+    "adjustedStandardPoints": {
+      "numerator": 81,
+      "denominator": 1,
+      "label": "81"
+    },
+    "averageStandardPoints": 1.83,
+    "matchCount": 48,
+    "placementCounts": {
+      "first": {
+        "numerator": 14,
+        "denominator": 1,
+        "label": "14"
+      },
+      "second": {
+        "numerator": 8,
+        "denominator": 1,
+        "label": "8"
+      },
+      "third": {
+        "numerator": 16,
+        "denominator": 1,
+        "label": "16"
+      },
+      "fourth": {
+        "numerator": 10,
+        "denominator": 1,
+        "label": "10"
+      }
+    }
+  },
+  {
+    "rank": 8,
+    "name": "杠上开花队",
+    "totalPoints": -1190,
+    "standardPoints": {
+      "numerator": 69,
+      "denominator": 1,
+      "label": "69"
+    },
+    "standardPointPenalty": {
+      "numerator": 2,
+      "denominator": 1,
+      "label": "2"
+    },
+    "adjustedStandardPoints": {
+      "numerator": 67,
+      "denominator": 1,
+      "label": "67"
+    },
+    "averageStandardPoints": 1.44,
+    "matchCount": 48,
+    "placementCounts": {
+      "first": {
+        "numerator": 9,
+        "denominator": 1,
+        "label": "9"
+      },
+      "second": {
+        "numerator": 12,
+        "denominator": 1,
+        "label": "12"
+      },
+      "third": {
+        "numerator": 9,
+        "denominator": 1,
+        "label": "9"
+      },
+      "fourth": {
+        "numerator": 18,
+        "denominator": 1,
+        "label": "18"
+      }
+    }
+  },
+  {
+    "rank": 9,
+    "name": "自摸七队",
+    "totalPoints": -1453,
+    "standardPoints": {
+      "numerator": 64,
+      "denominator": 1,
+      "label": "64"
+    },
+    "standardPointPenalty": {
+      "numerator": 2,
+      "denominator": 1,
+      "label": "2"
+    },
+    "adjustedStandardPoints": {
+      "numerator": 62,
+      "denominator": 1,
+      "label": "62"
+    },
+    "averageStandardPoints": 1.33,
+    "matchCount": 48,
+    "placementCounts": {
+      "first": {
+        "numerator": 9,
+        "denominator": 1,
+        "label": "9"
+      },
+      "second": {
+        "numerator": 7,
+        "denominator": 1,
+        "label": "7"
+      },
+      "third": {
+        "numerator": 14,
+        "denominator": 1,
+        "label": "14"
+      },
+      "fourth": {
+        "numerator": 18,
+        "denominator": 1,
+        "label": "18"
+      }
+    }
+  },
+  {
+    "rank": 10,
+    "name": "呼噜呼噜哼🐷",
+    "totalPoints": -1816,
+    "standardPoints": {
+      "numerator": 121,
+      "denominator": 2,
+      "label": "60又1/2"
+    },
+    "standardPointPenalty": {
+      "numerator": 4,
+      "denominator": 1,
+      "label": "4"
+    },
+    "adjustedStandardPoints": {
+      "numerator": 113,
+      "denominator": 2,
+      "label": "56又1/2"
+    },
+    "averageStandardPoints": 1.26,
+    "matchCount": 48,
+    "placementCounts": {
+      "first": {
+        "numerator": 7,
+        "denominator": 1,
+        "label": "7"
+      },
+      "second": {
+        "numerator": 25,
+        "denominator": 2,
+        "label": "12又1/2"
+      },
+      "third": {
+        "numerator": 15,
+        "denominator": 2,
+        "label": "7又1/2"
+      },
+      "fourth": {
+        "numerator": 21,
+        "denominator": 1,
+        "label": "21"
+      }
+    }
+  }
+]

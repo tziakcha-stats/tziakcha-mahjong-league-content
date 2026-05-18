@@ -1,0 +1,1048 @@
+{
+  "qiduiSiguilYisi": [],
+  "xintuShang": [],
+  "wodeHongwu": [
+    {
+      "winner": "ChaosDon",
+      "winnerTeam": "绿小龙",
+      "totalFan": 10,
+      "roundLabel": "常规赛第 12 轮",
+      "tableName": "B 桌",
+      "replayUrl": "https://tziakcha.net/game/?id=QKeqaysP",
+      "matchId": "QKeqaysP",
+      "recordId": "JbBvdJty",
+      "roundNo": 13,
+      "finishedAt": "03/26 20:52",
+      "description": "四张5s",
+      "hand": "123678m34555588s"
+    },
+    {
+      "winner": "Sw279695293",
+      "winnerTeam": "择日读",
+      "totalFan": 9,
+      "roundLabel": "常规赛第 31 轮",
+      "tableName": "B 桌",
+      "replayUrl": "https://tziakcha.net/game/?id=v3Ryk2YN",
+      "matchId": "v3Ryk2YN",
+      "recordId": "TeC2fRn9",
+      "roundNo": 4,
+      "finishedAt": "04/12 19:42",
+      "description": "四张5m",
+      "hand": "34555599m678p456s"
+    },
+    {
+      "winner": "幻秋",
+      "winnerTeam": "呼噜呼噜哼🐷",
+      "totalFan": 11,
+      "roundLabel": "常规赛第 39 轮",
+      "tableName": "A 桌",
+      "replayUrl": "https://tziakcha.net/game/?id=Loxt9vz7",
+      "matchId": "Loxt9vz7",
+      "recordId": "HXEfFisK",
+      "roundNo": 2,
+      "finishedAt": "04/23 19:45",
+      "description": "四张5m",
+      "hand": "[EEE,1]111123555567m"
+    }
+  ],
+  "quanxiao": [],
+  "direnYideng": [],
+  "zimoQuanqiuRen": [],
+  "qiduiMax": [
+    {
+      "winner": "云出无心",
+      "winnerTeam": "小鲨鱼动物园",
+      "totalFan": 63,
+      "roundLabel": "常规赛第 27 轮",
+      "tableName": "A 桌",
+      "replayUrl": "https://tziakcha.net/game/?id=v6xy67YT",
+      "matchId": "v6xy67YT",
+      "recordId": "cSFDAWAt",
+      "roundNo": 7,
+      "finishedAt": "04/09 19:43",
+      "hand": "99m999p1199sWWFFPP",
+      "fanItems": [
+        {
+          "fanName": "混幺九",
+          "unitFan": 32,
+          "count": 1,
+          "totalFan": 32
+        },
+        {
+          "fanName": "七对",
+          "unitFan": 24,
+          "count": 1,
+          "totalFan": 24
+        },
+        {
+          "fanName": "五门齐",
+          "unitFan": 6,
+          "count": 1,
+          "totalFan": 6
+        },
+        {
+          "fanName": "花牌",
+          "unitFan": 1,
+          "count": 1,
+          "totalFan": 1
+        }
+      ]
+    },
+    {
+      "winner": "南桥s01",
+      "winnerTeam": "云上秋雨",
+      "totalFan": 37,
+      "roundLabel": "常规赛第 31 轮",
+      "tableName": "A 桌",
+      "replayUrl": "https://tziakcha.net/game/?id=kMPMzQwF",
+      "matchId": "kMPMzQwF",
+      "recordId": "DfddV5fs",
+      "roundNo": 3,
+      "finishedAt": "04/12 19:45",
+      "hand": "22444m2233p113344s",
+      "fanItems": [
+        {
+          "fanName": "七对",
+          "unitFan": 24,
+          "count": 1,
+          "totalFan": 24
+        },
+        {
+          "fanName": "小于五",
+          "unitFan": 12,
+          "count": 1,
+          "totalFan": 12
+        },
+        {
+          "fanName": "花牌",
+          "unitFan": 1,
+          "count": 1,
+          "totalFan": 1
+        }
+      ]
+    },
+    {
+      "winner": "海仲利安",
+      "winnerTeam": "自摸七队",
+      "totalFan": 35,
+      "roundLabel": "常规赛第 39 轮",
+      "tableName": "A 桌",
+      "replayUrl": "https://tziakcha.net/game/?id=Loxt9vz7",
+      "matchId": "Loxt9vz7",
+      "recordId": "kdGjyAqS",
+      "roundNo": 12,
+      "finishedAt": "04/23 19:45",
+      "hand": "1188m8899p99sSSCC",
+      "fanItems": [
+        {
+          "fanName": "七对",
+          "unitFan": 24,
+          "count": 1,
+          "totalFan": 24
+        },
+        {
+          "fanName": "五门齐",
+          "unitFan": 6,
+          "count": 1,
+          "totalFan": 6
+        },
+        {
+          "fanName": "自摸",
+          "unitFan": 1,
+          "count": 1,
+          "totalFan": 1
+        },
+        {
+          "fanName": "花牌",
+          "unitFan": 1,
+          "count": 4,
+          "totalFan": 4
+        }
+      ]
+    },
+    {
+      "winner": "xixi",
+      "winnerTeam": "复仇者联盟",
+      "totalFan": 34,
+      "roundLabel": "常规赛第 4 轮",
+      "tableName": "B 桌",
+      "replayUrl": "https://tziakcha.net/game/?id=BiF3vDAD",
+      "matchId": "BiF3vDAD",
+      "recordId": "R4Xk51ip",
+      "roundNo": 12,
+      "finishedAt": "03/19 20:42",
+      "hand": "44m7799p88sEEFFPP",
+      "fanItems": [
+        {
+          "fanName": "七对",
+          "unitFan": 24,
+          "count": 1,
+          "totalFan": 24
+        },
+        {
+          "fanName": "五门齐",
+          "unitFan": 6,
+          "count": 1,
+          "totalFan": 6
+        },
+        {
+          "fanName": "自摸",
+          "unitFan": 1,
+          "count": 1,
+          "totalFan": 1
+        },
+        {
+          "fanName": "花牌",
+          "unitFan": 1,
+          "count": 3,
+          "totalFan": 3
+        }
+      ]
+    },
+    {
+      "winner": "Choimoe",
+      "winnerTeam": "青柠现代麻将文化研究协会",
+      "totalFan": 34,
+      "roundLabel": "常规赛第 22 轮",
+      "tableName": "A 桌",
+      "replayUrl": "https://tziakcha.net/game/?id=2VugbTDY",
+      "matchId": "2VugbTDY",
+      "recordId": "Yy8NTu5r",
+      "roundNo": 16,
+      "finishedAt": "04/04 20:40",
+      "hand": "4477m99p3344sEEPP",
+      "fanItems": [
+        {
+          "fanName": "七对",
+          "unitFan": 24,
+          "count": 1,
+          "totalFan": 24
+        },
+        {
+          "fanName": "五门齐",
+          "unitFan": 6,
+          "count": 1,
+          "totalFan": 6
+        },
+        {
+          "fanName": "自摸",
+          "unitFan": 1,
+          "count": 1,
+          "totalFan": 1
+        },
+        {
+          "fanName": "花牌",
+          "unitFan": 1,
+          "count": 3,
+          "totalFan": 3
+        }
+      ]
+    },
+    {
+      "winner": "bzh",
+      "winnerTeam": "呼噜呼噜哼🐷",
+      "totalFan": 33,
+      "roundLabel": "常规赛第 23 轮",
+      "tableName": "B 桌",
+      "replayUrl": "https://tziakcha.net/game/?id=VKY9rZHY",
+      "matchId": "VKY9rZHY",
+      "recordId": "2hxJxGqJ",
+      "roundNo": 16,
+      "finishedAt": "04/05 19:41",
+      "hand": "2277m66p44999sWWCC",
+      "fanItems": [
+        {
+          "fanName": "七对",
+          "unitFan": 24,
+          "count": 1,
+          "totalFan": 24
+        },
+        {
+          "fanName": "五门齐",
+          "unitFan": 6,
+          "count": 1,
+          "totalFan": 6
+        },
+        {
+          "fanName": "花牌",
+          "unitFan": 1,
+          "count": 3,
+          "totalFan": 3
+        }
+      ]
+    },
+    {
+      "winner": "墨色清涟池",
+      "winnerTeam": "特邀——没上过沙袋",
+      "totalFan": 33,
+      "roundLabel": "常规赛第 48 轮",
+      "tableName": "A 桌",
+      "replayUrl": "https://tziakcha.net/game/?id=WHTRs74C",
+      "matchId": "WHTRs74C",
+      "recordId": "hPpZmQTs",
+      "roundNo": 1,
+      "finishedAt": "04/30 20:45",
+      "hand": "4488m44p66sEENNFF",
+      "fanItems": [
+        {
+          "fanName": "七对",
+          "unitFan": 24,
+          "count": 1,
+          "totalFan": 24
+        },
+        {
+          "fanName": "五门齐",
+          "unitFan": 6,
+          "count": 1,
+          "totalFan": 6
+        },
+        {
+          "fanName": "自摸",
+          "unitFan": 1,
+          "count": 1,
+          "totalFan": 1
+        },
+        {
+          "fanName": "花牌",
+          "unitFan": 1,
+          "count": 2,
+          "totalFan": 2
+        }
+      ]
+    },
+    {
+      "winner": "海仲利安",
+      "winnerTeam": "自摸七队",
+      "totalFan": 33,
+      "roundLabel": "常规赛第 52 轮",
+      "tableName": "A 桌",
+      "replayUrl": "https://tziakcha.net/game/?id=RkHiTLRH",
+      "matchId": "RkHiTLRH",
+      "recordId": "LDZWZrEm",
+      "roundNo": 16,
+      "finishedAt": "05/03 22:51",
+      "hand": "66m5566p66sEEWWCC",
+      "fanItems": [
+        {
+          "fanName": "七对",
+          "unitFan": 24,
+          "count": 1,
+          "totalFan": 24
+        },
+        {
+          "fanName": "五门齐",
+          "unitFan": 6,
+          "count": 1,
+          "totalFan": 6
+        },
+        {
+          "fanName": "自摸",
+          "unitFan": 1,
+          "count": 1,
+          "totalFan": 1
+        },
+        {
+          "fanName": "花牌",
+          "unitFan": 1,
+          "count": 2,
+          "totalFan": 2
+        }
+      ]
+    },
+    {
+      "winner": "bzh",
+      "winnerTeam": "呼噜呼噜哼🐷",
+      "totalFan": 32,
+      "roundLabel": "常规赛第 1 轮",
+      "tableName": "B 桌",
+      "replayUrl": "https://tziakcha.net/game/?id=9SFTMARc",
+      "matchId": "9SFTMARc",
+      "recordId": "LQYGrip2",
+      "roundNo": 13,
+      "finishedAt": "03/17 19:41",
+      "hand": "999m7799p33449999s",
+      "fanItems": [
+        {
+          "fanName": "七对",
+          "unitFan": 24,
+          "count": 1,
+          "totalFan": 24
+        },
+        {
+          "fanName": "四归一",
+          "unitFan": 2,
+          "count": 1,
+          "totalFan": 2
+        },
+        {
+          "fanName": "无字",
+          "unitFan": 1,
+          "count": 1,
+          "totalFan": 1
+        },
+        {
+          "fanName": "花牌",
+          "unitFan": 1,
+          "count": 5,
+          "totalFan": 5
+        }
+      ]
+    },
+    {
+      "winner": "Sw279695293",
+      "winnerTeam": "择日读",
+      "totalFan": 32,
+      "roundLabel": "常规赛第 7 轮",
+      "tableName": "B 桌",
+      "replayUrl": "https://tziakcha.net/game/?id=4yFsvLHF",
+      "matchId": "4yFsvLHF",
+      "recordId": "bi3QWFRe",
+      "roundNo": 5,
+      "finishedAt": "03/22 19:44",
+      "hand": "44m4455p2277sEECC",
+      "fanItems": [
+        {
+          "fanName": "七对",
+          "unitFan": 24,
+          "count": 1,
+          "totalFan": 24
+        },
+        {
+          "fanName": "五门齐",
+          "unitFan": 6,
+          "count": 1,
+          "totalFan": 6
+        },
+        {
+          "fanName": "自摸",
+          "unitFan": 1,
+          "count": 1,
+          "totalFan": 1
+        },
+        {
+          "fanName": "花牌",
+          "unitFan": 1,
+          "count": 1,
+          "totalFan": 1
+        }
+      ]
+    }
+  ],
+  "dujiuZhengjiu": [
+    {
+      "winner": "米夜",
+      "winnerTeam": "特邀——没上过沙袋",
+      "totalFan": 10,
+      "roundLabel": "常规赛第 1 轮",
+      "tableName": "A 桌",
+      "replayUrl": "https://tziakcha.net/game/?id=HpvHHjQH",
+      "matchId": "HpvHHjQH",
+      "recordId": "2GNax1xs",
+      "roundNo": 10,
+      "finishedAt": "03/17 19:43",
+      "description": "黄腾 自摸"
+    },
+    {
+      "winner": "云出无心",
+      "winnerTeam": "小鲨鱼动物园",
+      "totalFan": 11,
+      "roundLabel": "常规赛第 2 轮",
+      "tableName": "B 桌",
+      "replayUrl": "https://tziakcha.net/game/?id=YMgAazQn",
+      "matchId": "YMgAazQn",
+      "recordId": "q9fCQUHi",
+      "roundNo": 2,
+      "finishedAt": "03/17 20:47",
+      "description": "吴下阿濛 自摸"
+    },
+    {
+      "winner": "云出无心",
+      "winnerTeam": "小鲨鱼动物园",
+      "totalFan": 26,
+      "roundLabel": "常规赛第 2 轮",
+      "tableName": "B 桌",
+      "replayUrl": "https://tziakcha.net/game/?id=YMgAazQn",
+      "matchId": "YMgAazQn",
+      "recordId": "jfriZLyC",
+      "roundNo": 10,
+      "finishedAt": "03/17 20:47",
+      "description": "吴下阿濛 自摸"
+    },
+    {
+      "winner": "CatHikari",
+      "winnerTeam": "呼噜呼噜哼🐷",
+      "totalFan": 20,
+      "roundLabel": "常规赛第 3 轮",
+      "tableName": "A 桌",
+      "replayUrl": "https://tziakcha.net/game/?id=w32Tfayi",
+      "matchId": "w32Tfayi",
+      "recordId": "2bVN8WpS",
+      "roundNo": 16,
+      "finishedAt": "03/19 19:49",
+      "description": "Sw279695293 自摸"
+    },
+    {
+      "winner": "CatHikari",
+      "winnerTeam": "呼噜呼噜哼🐷",
+      "totalFan": 9,
+      "roundLabel": "常规赛第 41 轮",
+      "tableName": "B 桌",
+      "replayUrl": "https://tziakcha.net/game/?id=bM7Rnc3S",
+      "matchId": "bM7Rnc3S",
+      "recordId": "vYuxDKHx",
+      "roundNo": 10,
+      "finishedAt": "04/25 19:55",
+      "description": "未有期 自摸"
+    },
+    {
+      "winner": "海仲利安",
+      "winnerTeam": "自摸七队",
+      "totalFan": 17,
+      "roundLabel": "常规赛第 43 轮",
+      "tableName": "B 桌",
+      "replayUrl": "https://tziakcha.net/game/?id=UEpBNKgs",
+      "matchId": "UEpBNKgs",
+      "recordId": "bjZxz3Zs",
+      "roundNo": 8,
+      "finishedAt": "04/26 19:32",
+      "description": "QinNai 自摸"
+    },
+    {
+      "winner": "zsseg",
+      "winnerTeam": "杠上开花队",
+      "totalFan": 12,
+      "roundLabel": "常规赛第 47 轮",
+      "tableName": "B 桌",
+      "replayUrl": "https://tziakcha.net/game/?id=xMVyULCk",
+      "matchId": "xMVyULCk",
+      "recordId": "5GerWwfm",
+      "roundNo": 15,
+      "finishedAt": "04/30 19:32",
+      "description": "足立レイ 自摸"
+    },
+    {
+      "winner": "lidai",
+      "winnerTeam": "小鲨鱼动物园",
+      "totalFan": 36,
+      "roundLabel": "常规赛第 52 轮",
+      "tableName": "B 桌",
+      "replayUrl": "https://tziakcha.net/game/?id=AKHwpLUa",
+      "matchId": "AKHwpLUa",
+      "recordId": "2MLP5gqW",
+      "roundNo": 9,
+      "finishedAt": "05/03 22:41",
+      "description": "黄腾 自摸"
+    }
+  ],
+  "dujiuShenji": [
+    {
+      "winner": "琳雨空",
+      "winnerTeam": "云上秋雨",
+      "totalFan": 29,
+      "roundLabel": "常规赛第 2 轮",
+      "tableName": "A 桌",
+      "replayUrl": "https://tziakcha.net/game/?id=km4eizxi",
+      "matchId": "km4eizxi",
+      "recordId": "ECDcFTfG",
+      "roundNo": 12,
+      "finishedAt": "03/17 20:33",
+      "description": "13→14→29 番"
+    },
+    {
+      "winner": "吴下阿濛",
+      "winnerTeam": "绿小龙",
+      "totalFan": 22,
+      "roundLabel": "常规赛第 2 轮",
+      "tableName": "B 桌",
+      "replayUrl": "https://tziakcha.net/game/?id=YMgAazQn",
+      "matchId": "YMgAazQn",
+      "recordId": "rtaocqvY",
+      "roundNo": 8,
+      "finishedAt": "03/17 20:47",
+      "description": "9→15→22 番"
+    },
+    {
+      "winner": "zsseg",
+      "winnerTeam": "杠上开花队",
+      "totalFan": 15,
+      "roundLabel": "常规赛第 3 轮",
+      "tableName": "B 桌",
+      "replayUrl": "https://tziakcha.net/game/?id=tqonC4SP",
+      "matchId": "tqonC4SP",
+      "recordId": "fbGwkB3f",
+      "roundNo": 12,
+      "finishedAt": "03/19 20:11",
+      "description": "10→12→15 番"
+    },
+    {
+      "winner": "日出",
+      "winnerTeam": "择日读",
+      "totalFan": 25,
+      "roundLabel": "常规赛第 4 轮",
+      "tableName": "A 桌",
+      "replayUrl": "https://tziakcha.net/game/?id=6r6fRBbh",
+      "matchId": "6r6fRBbh",
+      "recordId": "coDeJY08",
+      "roundNo": 4,
+      "finishedAt": "03/19 20:52",
+      "description": "9→17→25 番"
+    },
+    {
+      "winner": "CatHikari",
+      "winnerTeam": "呼噜呼噜哼🐷",
+      "totalFan": 18,
+      "roundLabel": "常规赛第 6 轮",
+      "tableName": "B 桌",
+      "replayUrl": "https://tziakcha.net/game/?id=FRDBhonq",
+      "matchId": "FRDBhonq",
+      "recordId": "3cm4iPmz",
+      "roundNo": 9,
+      "finishedAt": "03/21 20:48",
+      "description": "11→14→18 番"
+    },
+    {
+      "winner": "钙热",
+      "winnerTeam": "特邀——没上过沙袋",
+      "totalFan": 21,
+      "roundLabel": "常规赛第 27 轮",
+      "tableName": "A 桌",
+      "replayUrl": "https://tziakcha.net/game/?id=v6xy67YT",
+      "matchId": "v6xy67YT",
+      "recordId": "4cdN7tT7",
+      "roundNo": 6,
+      "finishedAt": "04/09 19:43",
+      "description": "13→17→21 番"
+    },
+    {
+      "winner": "Sw279695293",
+      "winnerTeam": "择日读",
+      "totalFan": 13,
+      "roundLabel": "常规赛第 27 轮",
+      "tableName": "B 桌",
+      "replayUrl": "https://tziakcha.net/game/?id=Y1WtCUMf",
+      "matchId": "Y1WtCUMf",
+      "recordId": "TbWMG3JS",
+      "roundNo": 3,
+      "finishedAt": "04/09 19:49",
+      "description": "8→11→13 番"
+    },
+    {
+      "winner": "Sw279695293",
+      "winnerTeam": "择日读",
+      "totalFan": 17,
+      "roundLabel": "常规赛第 27 轮",
+      "tableName": "B 桌",
+      "replayUrl": "https://tziakcha.net/game/?id=Y1WtCUMf",
+      "matchId": "Y1WtCUMf",
+      "recordId": "x6qejfSy",
+      "roundNo": 4,
+      "finishedAt": "04/09 19:49",
+      "description": "11→13→17 番"
+    },
+    {
+      "winner": "Sw279695293",
+      "winnerTeam": "择日读",
+      "totalFan": 27,
+      "roundLabel": "常规赛第 30 轮",
+      "tableName": "A 桌",
+      "replayUrl": "https://tziakcha.net/game/?id=jy7zxRP6",
+      "matchId": "jy7zxRP6",
+      "recordId": "DcuAiPsU",
+      "roundNo": 6,
+      "finishedAt": "04/11 20:30",
+      "description": "9→18→27 番"
+    },
+    {
+      "winner": "zsseg",
+      "winnerTeam": "杠上开花队",
+      "totalFan": 20,
+      "roundLabel": "常规赛第 36 轮",
+      "tableName": "B 桌",
+      "replayUrl": "https://tziakcha.net/game/?id=jJ3bBQGu",
+      "matchId": "jJ3bBQGu",
+      "recordId": "r65s90S7",
+      "roundNo": 9,
+      "finishedAt": "04/16 20:37",
+      "description": "9→10→20 番"
+    },
+    {
+      "winner": "璃茉",
+      "winnerTeam": "青柠现代麻将文化研究协会",
+      "totalFan": 28,
+      "roundLabel": "常规赛第 41 轮",
+      "tableName": "A 桌",
+      "replayUrl": "https://tziakcha.net/game/?id=Sy9Z7A7v",
+      "matchId": "Sy9Z7A7v",
+      "recordId": "ksANVjot",
+      "roundNo": 3,
+      "finishedAt": "04/25 19:46",
+      "description": "12→22→28 番"
+    },
+    {
+      "winner": "未有期",
+      "winnerTeam": "杠上开花队",
+      "totalFan": 25,
+      "roundLabel": "常规赛第 41 轮",
+      "tableName": "B 桌",
+      "replayUrl": "https://tziakcha.net/game/?id=bM7Rnc3S",
+      "matchId": "bM7Rnc3S",
+      "recordId": "jS46rFhR",
+      "roundNo": 8,
+      "finishedAt": "04/25 19:55",
+      "description": "9→21→25 番"
+    },
+    {
+      "winner": "黄腾",
+      "winnerTeam": "择日读",
+      "totalFan": 13,
+      "roundLabel": "常规赛第 45 轮",
+      "tableName": "B 桌",
+      "replayUrl": "https://tziakcha.net/game/?id=b9J9nHSj",
+      "matchId": "b9J9nHSj",
+      "recordId": "WqsCYkEp",
+      "roundNo": 3,
+      "finishedAt": "04/28 19:50",
+      "description": "9→10→13 番"
+    },
+    {
+      "winner": "Quandaiwu42",
+      "winnerTeam": "特邀——没上过沙袋",
+      "totalFan": 28,
+      "roundLabel": "常规赛第 47 轮",
+      "tableName": "A 桌",
+      "replayUrl": "https://tziakcha.net/game/?id=ndqFFB2W",
+      "matchId": "ndqFFB2W",
+      "recordId": "viV5C6Xw",
+      "roundNo": 6,
+      "finishedAt": "04/30 19:41",
+      "description": "13→22→28 番"
+    },
+    {
+      "winner": "叶凡",
+      "winnerTeam": "复仇者联盟",
+      "totalFan": 19,
+      "roundLabel": "常规赛第 44 轮",
+      "tableName": "A 桌",
+      "replayUrl": "https://tziakcha.net/game/?id=6r6uGP9g",
+      "matchId": "6r6uGP9g",
+      "recordId": "kVP5ZqDY",
+      "roundNo": 8,
+      "finishedAt": "05/07 21:43",
+      "description": "13→18→19 番"
+    },
+    {
+      "winner": "River",
+      "winnerTeam": "绿小龙",
+      "totalFan": 15,
+      "roundLabel": "常规赛第 57 轮",
+      "tableName": "A 桌",
+      "replayUrl": "https://tziakcha.net/game/?id=McMSmqXU",
+      "matchId": "McMSmqXU",
+      "recordId": "8YScPdDj",
+      "roundNo": 15,
+      "finishedAt": "05/09 19:45",
+      "description": "13→14→15 番"
+    },
+    {
+      "winner": "叶凡",
+      "winnerTeam": "复仇者联盟",
+      "totalFan": 14,
+      "roundLabel": "常规赛第 58 轮",
+      "tableName": "B 桌",
+      "replayUrl": "https://tziakcha.net/game/?id=vFeupRmM",
+      "matchId": "vFeupRmM",
+      "recordId": "kva4FWiR",
+      "roundNo": 14,
+      "finishedAt": "05/09 20:39",
+      "description": "8→9→14 番"
+    }
+  ],
+  "dujiuDianhe": [
+    {
+      "winner": "海叔利安",
+      "winnerTeam": "自摸七队",
+      "roundLabel": "常规赛第 2 轮",
+      "tableName": "A 桌",
+      "replayUrl": "https://tziakcha.net/game/?id=km4eizxi",
+      "matchId": "km4eizxi",
+      "recordId": "mvKyQKre",
+      "roundNo": 1,
+      "finishedAt": "03/17 20:33"
+    },
+    {
+      "winner": "未有期",
+      "winnerTeam": "杠上开花队",
+      "roundLabel": "常规赛第 2 轮",
+      "tableName": "B 桌",
+      "replayUrl": "https://tziakcha.net/game/?id=YMgAazQn",
+      "matchId": "YMgAazQn",
+      "recordId": "ChKzJz1j",
+      "roundNo": 1,
+      "finishedAt": "03/17 20:47"
+    },
+    {
+      "winner": "璃茉",
+      "winnerTeam": "青柠现代麻将文化研究协会",
+      "roundLabel": "常规赛第 3 轮",
+      "tableName": "B 桌",
+      "replayUrl": "https://tziakcha.net/game/?id=tqonC4SP",
+      "matchId": "tqonC4SP",
+      "recordId": "ha2052V3",
+      "roundNo": 1,
+      "finishedAt": "03/19 20:11"
+    },
+    {
+      "winner": "海仲利安",
+      "winnerTeam": "自摸七队",
+      "roundLabel": "常规赛第 6 轮",
+      "tableName": "A 桌",
+      "replayUrl": "https://tziakcha.net/game/?id=h2tmsaUp",
+      "matchId": "h2tmsaUp",
+      "recordId": "9YK7HvN8",
+      "roundNo": 1,
+      "finishedAt": "03/21 20:35"
+    },
+    {
+      "winner": "ChaosDon",
+      "winnerTeam": "绿小龙",
+      "roundLabel": "常规赛第 8 轮",
+      "tableName": "B 桌",
+      "replayUrl": "https://tziakcha.net/game/?id=HMMKiAVL",
+      "matchId": "HMMKiAVL",
+      "recordId": "PZX2xcR2",
+      "roundNo": 1,
+      "finishedAt": "03/22 20:42"
+    },
+    {
+      "winner": "redbean",
+      "winnerTeam": "杠上开花队",
+      "roundLabel": "常规赛第 16 轮",
+      "tableName": "B 桌",
+      "replayUrl": "https://tziakcha.net/game/?id=sT0GE5dB",
+      "matchId": "sT0GE5dB",
+      "recordId": "0Mn8a0gh",
+      "roundNo": 1,
+      "finishedAt": "03/29 20:49"
+    },
+    {
+      "winner": "QinNai",
+      "winnerTeam": "呼噜呼噜哼🐷",
+      "roundLabel": "常规赛第 19 轮",
+      "tableName": "B 桌",
+      "replayUrl": "https://tziakcha.net/game/?id=kZMEAS3i",
+      "matchId": "kZMEAS3i",
+      "recordId": "suG2h4i1",
+      "roundNo": 1,
+      "finishedAt": "04/02 19:50"
+    },
+    {
+      "winner": "bzh",
+      "winnerTeam": "呼噜呼噜哼🐷",
+      "roundLabel": "常规赛第 24 轮",
+      "tableName": "A 桌",
+      "replayUrl": "https://tziakcha.net/game/?id=EGY2ocEW",
+      "matchId": "EGY2ocEW",
+      "recordId": "fJvnyPQm",
+      "roundNo": 1,
+      "finishedAt": "04/05 20:42"
+    },
+    {
+      "winner": "海仲利安",
+      "winnerTeam": "自摸七队",
+      "roundLabel": "常规赛第 24 轮",
+      "tableName": "B 桌",
+      "replayUrl": "https://tziakcha.net/game/?id=cMg4yMk4",
+      "matchId": "cMg4yMk4",
+      "recordId": "FRAp0ygZ",
+      "roundNo": 1,
+      "finishedAt": "04/05 20:43"
+    },
+    {
+      "winner": "川上珧",
+      "winnerTeam": "云上秋雨",
+      "roundLabel": "常规赛第 26 轮",
+      "tableName": "A 桌",
+      "replayUrl": "https://tziakcha.net/game/?id=DcgmSH3D",
+      "matchId": "DcgmSH3D",
+      "recordId": "JrZ6Q7uo",
+      "roundNo": 1,
+      "finishedAt": "04/07 20:49"
+    },
+    {
+      "winner": "Sw279695293",
+      "winnerTeam": "择日读",
+      "roundLabel": "常规赛第 29 轮",
+      "tableName": "B 桌",
+      "replayUrl": "https://tziakcha.net/game/?id=j78GST9h",
+      "matchId": "j78GST9h",
+      "recordId": "nGi390vW",
+      "roundNo": 1,
+      "finishedAt": "04/11 19:40"
+    },
+    {
+      "winner": "lidai",
+      "winnerTeam": "小鲨鱼动物园",
+      "roundLabel": "常规赛第 30 轮",
+      "tableName": "B 桌",
+      "replayUrl": "https://tziakcha.net/game/?id=2scRcX0C",
+      "matchId": "2scRcX0C",
+      "recordId": "dcf0ATfQ",
+      "roundNo": 1,
+      "finishedAt": "04/11 20:40"
+    },
+    {
+      "winner": "幻秋",
+      "winnerTeam": "呼噜呼噜哼🐷",
+      "roundLabel": "常规赛第 36 轮",
+      "tableName": "A 桌",
+      "replayUrl": "https://tziakcha.net/game/?id=qVBoV3s2",
+      "matchId": "qVBoV3s2",
+      "recordId": "7NM8LqNu",
+      "roundNo": 1,
+      "finishedAt": "04/16 20:47"
+    },
+    {
+      "winner": "alaya23",
+      "winnerTeam": "绿小龙",
+      "roundLabel": "常规赛第 37 轮",
+      "tableName": "A 桌",
+      "replayUrl": "https://tziakcha.net/game/?id=qSzVTHAd",
+      "matchId": "qSzVTHAd",
+      "recordId": "cPTYiReH",
+      "roundNo": 1,
+      "finishedAt": "04/21 19:40"
+    },
+    {
+      "winner": "histo",
+      "winnerTeam": "杠上开花队",
+      "roundLabel": "常规赛第 37 轮",
+      "tableName": "B 桌",
+      "replayUrl": "https://tziakcha.net/game/?id=hxMXyfrk",
+      "matchId": "hxMXyfrk",
+      "recordId": "r62mP2Ck",
+      "roundNo": 1,
+      "finishedAt": "04/21 19:48"
+    },
+    {
+      "winner": "幻秋",
+      "winnerTeam": "呼噜呼噜哼🐷",
+      "roundLabel": "常规赛第 39 轮",
+      "tableName": "A 桌",
+      "replayUrl": "https://tziakcha.net/game/?id=Loxt9vz7",
+      "matchId": "Loxt9vz7",
+      "recordId": "rCzHM1VW",
+      "roundNo": 1,
+      "finishedAt": "04/23 19:45"
+    },
+    {
+      "winner": "海仲利安",
+      "winnerTeam": "自摸七队",
+      "roundLabel": "常规赛第 43 轮",
+      "tableName": "B 桌",
+      "replayUrl": "https://tziakcha.net/game/?id=UEpBNKgs",
+      "matchId": "UEpBNKgs",
+      "recordId": "DLQwPF6n",
+      "roundNo": 1,
+      "finishedAt": "04/26 19:32"
+    },
+    {
+      "winner": "sdmt",
+      "winnerTeam": "小鲨鱼动物园",
+      "roundLabel": "常规赛第 44 轮",
+      "tableName": "B 桌",
+      "replayUrl": "https://tziakcha.net/game/?id=nLKhLYBQ",
+      "matchId": "nLKhLYBQ",
+      "recordId": "idMFQFXq",
+      "roundNo": 1,
+      "finishedAt": "04/26 20:46"
+    },
+    {
+      "winner": "alaya23",
+      "winnerTeam": "绿小龙",
+      "roundLabel": "常规赛第 47 轮",
+      "tableName": "A 桌",
+      "replayUrl": "https://tziakcha.net/game/?id=ndqFFB2W",
+      "matchId": "ndqFFB2W",
+      "recordId": "BZosEidy",
+      "roundNo": 1,
+      "finishedAt": "04/30 19:41"
+    },
+    {
+      "winner": "川上珧",
+      "winnerTeam": "云上秋雨",
+      "roundLabel": "常规赛第 48 轮",
+      "tableName": "A 桌",
+      "replayUrl": "https://tziakcha.net/game/?id=WHTRs74C",
+      "matchId": "WHTRs74C",
+      "recordId": "hPpZmQTs",
+      "roundNo": 1,
+      "finishedAt": "04/30 20:45"
+    },
+    {
+      "winner": "小黄鸭",
+      "winnerTeam": "自摸七队",
+      "roundLabel": "常规赛第 48 轮",
+      "tableName": "B 桌",
+      "replayUrl": "https://tziakcha.net/game/?id=2UND79jM",
+      "matchId": "2UND79jM",
+      "recordId": "sMxPA24u",
+      "roundNo": 2,
+      "finishedAt": "04/30 20:46"
+    },
+    {
+      "winner": "ChaosDon",
+      "winnerTeam": "绿小龙",
+      "roundLabel": "常规赛第 51 轮",
+      "tableName": "A 桌",
+      "replayUrl": "https://tziakcha.net/game/?id=Ji9oLY7S",
+      "matchId": "Ji9oLY7S",
+      "recordId": "EpCUuPiY",
+      "roundNo": 1,
+      "finishedAt": "05/03 21:36"
+    },
+    {
+      "winner": "redbean",
+      "winnerTeam": "杠上开花队",
+      "roundLabel": "常规赛第 52 轮",
+      "tableName": "B 桌",
+      "replayUrl": "https://tziakcha.net/game/?id=AKHwpLUa",
+      "matchId": "AKHwpLUa",
+      "recordId": "Ckj44CLd",
+      "roundNo": 1,
+      "finishedAt": "05/03 22:41"
+    },
+    {
+      "winner": "钙热",
+      "winnerTeam": "特邀——没上过沙袋",
+      "roundLabel": "常规赛第 53 轮",
+      "tableName": "B 桌",
+      "replayUrl": "https://tziakcha.net/game/?id=3rM6ybSh",
+      "matchId": "3rM6ybSh",
+      "recordId": "EXSZaYV1",
+      "roundNo": 1,
+      "finishedAt": "05/05 21:36"
+    },
+    {
+      "winner": "CKLm",
+      "winnerTeam": "择日读",
+      "roundLabel": "常规赛第 54 轮",
+      "tableName": "B 桌",
+      "replayUrl": "https://tziakcha.net/game/?id=w4zDANuN",
+      "matchId": "w4zDANuN",
+      "recordId": "cUwfjJs6",
+      "roundNo": 1,
+      "finishedAt": "05/05 22:45"
+    },
+    {
+      "winner": "Choimoe",
+      "winnerTeam": "青柠现代麻将文化研究协会",
+      "roundLabel": "常规赛第 44 轮",
+      "tableName": "A 桌",
+      "replayUrl": "https://tziakcha.net/game/?id=6r6uGP9g",
+      "matchId": "6r6uGP9g",
+      "recordId": "7s56wX41",
+      "roundNo": 1,
+      "finishedAt": "05/07 21:43"
+    }
+  ]
+}
