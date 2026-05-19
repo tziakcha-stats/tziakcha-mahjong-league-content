@@ -1,0 +1,50 @@
+[
+  {
+    "rank": 1,
+    "winner": "A1",
+    "winnerTeam": "Team Alpha",
+    "tileCount": 1,
+    "tileNames": "1m",
+    "roundLabel": "常规赛第 2 轮",
+    "tableName": "B 桌",
+    "replayUrl": "https://tziakcha.net/game/?id=SESS0004",
+    "matchId": "SESS0004",
+    "finishedAt": "05/07 01:53"
+  },
+  {
+    "rank": 2,
+    "winner": "B3",
+    "winnerTeam": "Team Beta",
+    "tileCount": 1,
+    "tileNames": "1m",
+    "roundLabel": "常规赛第 2 轮",
+    "tableName": "A 桌",
+    "replayUrl": "https://tziakcha.net/game/?id=SESS0003",
+    "matchId": "SESS0003",
+    "finishedAt": "05/07 00:53"
+  },
+  {
+    "rank": 3,
+    "winner": "G1",
+    "winnerTeam": "Team Gamma",
+    "tileCount": 1,
+    "tileNames": "1m",
+    "roundLabel": "常规赛第 1 轮",
+    "tableName": "B 桌",
+    "replayUrl": "https://tziakcha.net/game/?id=SESS0002",
+    "matchId": "SESS0002",
+    "finishedAt": "05/06 01:53"
+  },
+  {
+    "rank": 4,
+    "winner": "A1",
+    "winnerTeam": "Team Alpha",
+    "tileCount": 1,
+    "tileNames": "2m",
+    "roundLabel": "常规赛第 1 轮",
+    "tableName": "A 桌",
+    "replayUrl": "https://tziakcha.net/game/?id=SESS0001",
+    "matchId": "SESS0001",
+    "finishedAt": "05/06 00:53"
+  }
+]

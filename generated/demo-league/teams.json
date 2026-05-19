@@ -1,0 +1,41 @@
+[
+  {
+    "id": "1",
+    "name": "Team Alpha",
+    "school": "SDU 国标麻将团体赛",
+    "captain": "A1",
+    "members": [
+      "A2",
+      "A3",
+      "A4"
+    ],
+    "record": "16 和 / 1 自摸 / 12 放铳 / 9 被自摸",
+    "note": "由后端生成脚本根据 team.json 与 rank/*.csv 聚合生成。"
+  },
+  {
+    "id": "2",
+    "name": "Team Beta",
+    "school": "SDU 国标麻将团体赛",
+    "captain": "B1",
+    "members": [
+      "B2",
+      "B3",
+      "B4"
+    ],
+    "record": "15 和 / 1 自摸 / 11 放铳 / 8 被自摸",
+    "note": "由后端生成脚本根据 team.json 与 rank/*.csv 聚合生成。"
+  },
+  {
+    "id": "3",
+    "name": "Team Gamma",
+    "school": "SDU 国标麻将团体赛",
+    "captain": "G1",
+    "members": [
+      "G2",
+      "G3",
+      "G4"
+    ],
+    "record": "13 和 / 1 自摸 / 10 放铳 / 8 被自摸",
+    "note": "由后端生成脚本根据 team.json 与 rank/*.csv 聚合生成。"
+  }
+]

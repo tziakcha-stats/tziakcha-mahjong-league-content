@@ -1,0 +1,98 @@
+[
+  {
+    "rank": 1,
+    "name": "A1",
+    "team": "Team Alpha",
+    "rate": 0.35,
+    "count": 7,
+    "note": "20 局样本，来源：rate_win_rate.csv"
+  },
+  {
+    "rank": 2,
+    "name": "B3",
+    "team": "Team Beta",
+    "rate": 0.3,
+    "count": 6,
+    "note": "20 局样本，来源：rate_win_rate.csv"
+  },
+  {
+    "rank": 3,
+    "name": "G1",
+    "team": "Team Gamma",
+    "rate": 0.25,
+    "count": 5,
+    "note": "20 局样本，来源：rate_win_rate.csv"
+  },
+  {
+    "rank": 4,
+    "name": "A3",
+    "team": "Team Alpha",
+    "rate": 0.2,
+    "count": 4,
+    "note": "20 局样本，来源：rate_win_rate.csv"
+  },
+  {
+    "rank": 5,
+    "name": "B1",
+    "team": "Team Beta",
+    "rate": 0.18,
+    "count": 4,
+    "note": "20 局样本，来源：rate_win_rate.csv"
+  },
+  {
+    "rank": 6,
+    "name": "G3",
+    "team": "Team Gamma",
+    "rate": 0.16,
+    "count": 3,
+    "note": "20 局样本，来源：rate_win_rate.csv"
+  },
+  {
+    "rank": 7,
+    "name": "A2",
+    "team": "Team Alpha",
+    "rate": 0.15,
+    "count": 3,
+    "note": "20 局样本，来源：rate_win_rate.csv"
+  },
+  {
+    "rank": 8,
+    "name": "B2",
+    "team": "Team Beta",
+    "rate": 0.14,
+    "count": 3,
+    "note": "20 局样本，来源：rate_win_rate.csv"
+  },
+  {
+    "rank": 9,
+    "name": "G2",
+    "team": "Team Gamma",
+    "rate": 0.13,
+    "count": 3,
+    "note": "20 局样本，来源：rate_win_rate.csv"
+  },
+  {
+    "rank": 10,
+    "name": "A4",
+    "team": "Team Alpha",
+    "rate": 0.12,
+    "count": 2,
+    "note": "20 局样本，来源：rate_win_rate.csv"
+  },
+  {
+    "rank": 11,
+    "name": "B4",
+    "team": "Team Beta",
+    "rate": 0.11,
+    "count": 2,
+    "note": "20 局样本，来源：rate_win_rate.csv"
+  },
+  {
+    "rank": 12,
+    "name": "G4",
+    "team": "Team Gamma",
+    "rate": 0.1,
+    "count": 2,
+    "note": "20 局样本，来源：rate_win_rate.csv"
+  }
+]

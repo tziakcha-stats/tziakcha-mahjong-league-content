@@ -1,0 +1,98 @@
+[
+  {
+    "rank": 1,
+    "name": "B4",
+    "team": "Team Beta",
+    "rate": 10,
+    "count": 5,
+    "note": "5 局样本，5 次点炮，总番数 50，来源：详细牌谱 + tziakcha-fetcher"
+  },
+  {
+    "rank": 2,
+    "name": "A2",
+    "team": "Team Alpha",
+    "rate": 8,
+    "count": 6,
+    "note": "6 局样本，6 次点炮，总番数 48，来源：详细牌谱 + tziakcha-fetcher"
+  },
+  {
+    "rank": 3,
+    "name": "B1",
+    "team": "Team Beta",
+    "rate": 7,
+    "count": 10,
+    "note": "10 局样本，4 次点炮，总番数 28，来源：详细牌谱 + tziakcha-fetcher"
+  },
+  {
+    "rank": 4,
+    "name": "G2",
+    "team": "Team Gamma",
+    "rate": 6,
+    "count": 9,
+    "note": "9 局样本，5 次点炮，总番数 30，来源：详细牌谱 + tziakcha-fetcher"
+  },
+  {
+    "rank": 5,
+    "name": "A1",
+    "team": "Team Alpha",
+    "rate": 0,
+    "count": 10,
+    "note": "10 局样本，0 次点炮，总番数 0，来源：详细牌谱 + tziakcha-fetcher"
+  },
+  {
+    "rank": 6,
+    "name": "G1",
+    "team": "Team Gamma",
+    "rate": 0,
+    "count": 9,
+    "note": "9 局样本，0 次点炮，总番数 0，来源：详细牌谱 + tziakcha-fetcher"
+  },
+  {
+    "rank": 7,
+    "name": "B2",
+    "team": "Team Beta",
+    "rate": 0,
+    "count": 6,
+    "note": "6 局样本，0 次点炮，总番数 0，来源：详细牌谱 + tziakcha-fetcher"
+  },
+  {
+    "rank": 8,
+    "name": "A3",
+    "team": "Team Alpha",
+    "rate": 0,
+    "count": 5,
+    "note": "5 局样本，0 次点炮，总番数 0，来源：详细牌谱 + tziakcha-fetcher"
+  },
+  {
+    "rank": 9,
+    "name": "A4",
+    "team": "Team Alpha",
+    "rate": 0,
+    "count": 5,
+    "note": "5 局样本，0 次点炮，总番数 0，来源：详细牌谱 + tziakcha-fetcher"
+  },
+  {
+    "rank": 10,
+    "name": "B3",
+    "team": "Team Beta",
+    "rate": 0,
+    "count": 5,
+    "note": "5 局样本，0 次点炮，总番数 0，来源：详细牌谱 + tziakcha-fetcher"
+  },
+  {
+    "rank": 11,
+    "name": "G3",
+    "team": "Team Gamma",
+    "rate": 0,
+    "count": 5,
+    "note": "5 局样本，0 次点炮，总番数 0，来源：详细牌谱 + tziakcha-fetcher"
+  },
+  {
+    "rank": 12,
+    "name": "G4",
+    "team": "Team Gamma",
+    "rate": 0,
+    "count": 5,
+    "note": "5 局样本，0 次点炮，总番数 0，来源：详细牌谱 + tziakcha-fetcher"
+  }
+]

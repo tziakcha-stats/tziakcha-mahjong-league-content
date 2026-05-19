@@ -1,0 +1,542 @@
+[
+  {
+    "rank": 1,
+    "name": "A1",
+    "club": "Team Alpha",
+    "totalPoints": 155,
+    "standardPoints": {
+      "numerator": 12,
+      "denominator": 1,
+      "label": "12"
+    },
+    "standardPointPenalty": {
+      "numerator": 0,
+      "denominator": 1,
+      "label": "0"
+    },
+    "adjustedStandardPoints": {
+      "numerator": 12,
+      "denominator": 1,
+      "label": "12"
+    },
+    "averagePlacement": 4,
+    "bonus": 3,
+    "placementCounts": {
+      "first": {
+        "numerator": 3,
+        "denominator": 1,
+        "label": "3"
+      },
+      "second": {
+        "numerator": 0,
+        "denominator": 1,
+        "label": "0"
+      },
+      "third": {
+        "numerator": 0,
+        "denominator": 1,
+        "label": "0"
+      },
+      "fourth": {
+        "numerator": 0,
+        "denominator": 1,
+        "label": "0"
+      }
+    }
+  },
+  {
+    "rank": 2,
+    "name": "G1",
+    "club": "Team Gamma",
+    "totalPoints": -5,
+    "standardPoints": {
+      "numerator": 13,
+      "denominator": 2,
+      "label": "6又1/2"
+    },
+    "standardPointPenalty": {
+      "numerator": 0,
+      "denominator": 1,
+      "label": "0"
+    },
+    "adjustedStandardPoints": {
+      "numerator": 13,
+      "denominator": 2,
+      "label": "6又1/2"
+    },
+    "averagePlacement": 2.17,
+    "bonus": 3,
+    "placementCounts": {
+      "first": {
+        "numerator": 1,
+        "denominator": 1,
+        "label": "1"
+      },
+      "second": {
+        "numerator": 1,
+        "denominator": 2,
+        "label": "1/2"
+      },
+      "third": {
+        "numerator": 3,
+        "denominator": 2,
+        "label": "1又1/2"
+      },
+      "fourth": {
+        "numerator": 0,
+        "denominator": 1,
+        "label": "0"
+      }
+    }
+  },
+  {
+    "rank": 3,
+    "name": "B3",
+    "club": "Team Beta",
+    "totalPoints": 50,
+    "standardPoints": {
+      "numerator": 4,
+      "denominator": 1,
+      "label": "4"
+    },
+    "standardPointPenalty": {
+      "numerator": 0,
+      "denominator": 1,
+      "label": "0"
+    },
+    "adjustedStandardPoints": {
+      "numerator": 4,
+      "denominator": 1,
+      "label": "4"
+    },
+    "averagePlacement": 4,
+    "bonus": 1,
+    "placementCounts": {
+      "first": {
+        "numerator": 1,
+        "denominator": 1,
+        "label": "1"
+      },
+      "second": {
+        "numerator": 0,
+        "denominator": 1,
+        "label": "0"
+      },
+      "third": {
+        "numerator": 0,
+        "denominator": 1,
+        "label": "0"
+      },
+      "fourth": {
+        "numerator": 0,
+        "denominator": 1,
+        "label": "0"
+      }
+    }
+  },
+  {
+    "rank": 4,
+    "name": "B1",
+    "club": "Team Beta",
+    "totalPoints": -20,
+    "standardPoints": {
+      "numerator": 3,
+      "denominator": 1,
+      "label": "3"
+    },
+    "standardPointPenalty": {
+      "numerator": 0,
+      "denominator": 1,
+      "label": "0"
+    },
+    "adjustedStandardPoints": {
+      "numerator": 3,
+      "denominator": 1,
+      "label": "3"
+    },
+    "averagePlacement": 1,
+    "bonus": 3,
+    "placementCounts": {
+      "first": {
+        "numerator": 0,
+        "denominator": 1,
+        "label": "0"
+      },
+      "second": {
+        "numerator": 1,
+        "denominator": 1,
+        "label": "1"
+      },
+      "third": {
+        "numerator": 1,
+        "denominator": 1,
+        "label": "1"
+      },
+      "fourth": {
+        "numerator": 1,
+        "denominator": 1,
+        "label": "1"
+      }
+    }
+  },
+  {
+    "rank": 5,
+    "name": "A3",
+    "club": "Team Alpha",
+    "totalPoints": 10,
+    "standardPoints": {
+      "numerator": 2,
+      "denominator": 1,
+      "label": "2"
+    },
+    "standardPointPenalty": {
+      "numerator": 0,
+      "denominator": 1,
+      "label": "0"
+    },
+    "adjustedStandardPoints": {
+      "numerator": 2,
+      "denominator": 1,
+      "label": "2"
+    },
+    "averagePlacement": 2,
+    "bonus": 1,
+    "placementCounts": {
+      "first": {
+        "numerator": 0,
+        "denominator": 1,
+        "label": "0"
+      },
+      "second": {
+        "numerator": 1,
+        "denominator": 1,
+        "label": "1"
+      },
+      "third": {
+        "numerator": 0,
+        "denominator": 1,
+        "label": "0"
+      },
+      "fourth": {
+        "numerator": 0,
+        "denominator": 1,
+        "label": "0"
+      }
+    }
+  },
+  {
+    "rank": 6,
+    "name": "B2",
+    "club": "Team Beta",
+    "totalPoints": -10,
+    "standardPoints": {
+      "numerator": 2,
+      "denominator": 1,
+      "label": "2"
+    },
+    "standardPointPenalty": {
+      "numerator": 0,
+      "denominator": 1,
+      "label": "0"
+    },
+    "adjustedStandardPoints": {
+      "numerator": 2,
+      "denominator": 1,
+      "label": "2"
+    },
+    "averagePlacement": 2,
+    "bonus": 1,
+    "placementCounts": {
+      "first": {
+        "numerator": 0,
+        "denominator": 1,
+        "label": "0"
+      },
+      "second": {
+        "numerator": 1,
+        "denominator": 1,
+        "label": "1"
+      },
+      "third": {
+        "numerator": 0,
+        "denominator": 1,
+        "label": "0"
+      },
+      "fourth": {
+        "numerator": 0,
+        "denominator": 1,
+        "label": "0"
+      }
+    }
+  },
+  {
+    "rank": 7,
+    "name": "G3",
+    "club": "Team Gamma",
+    "totalPoints": -10,
+    "standardPoints": {
+      "numerator": 3,
+      "denominator": 2,
+      "label": "1又1/2"
+    },
+    "standardPointPenalty": {
+      "numerator": 0,
+      "denominator": 1,
+      "label": "0"
+    },
+    "adjustedStandardPoints": {
+      "numerator": 3,
+      "denominator": 2,
+      "label": "1又1/2"
+    },
+    "averagePlacement": 1.5,
+    "bonus": 1,
+    "placementCounts": {
+      "first": {
+        "numerator": 0,
+        "denominator": 1,
+        "label": "0"
+      },
+      "second": {
+        "numerator": 1,
+        "denominator": 2,
+        "label": "1/2"
+      },
+      "third": {
+        "numerator": 1,
+        "denominator": 2,
+        "label": "1/2"
+      },
+      "fourth": {
+        "numerator": 0,
+        "denominator": 1,
+        "label": "0"
+      }
+    }
+  },
+  {
+    "rank": 8,
+    "name": "G4",
+    "club": "Team Gamma",
+    "totalPoints": -10,
+    "standardPoints": {
+      "numerator": 3,
+      "denominator": 2,
+      "label": "1又1/2"
+    },
+    "standardPointPenalty": {
+      "numerator": 0,
+      "denominator": 1,
+      "label": "0"
+    },
+    "adjustedStandardPoints": {
+      "numerator": 3,
+      "denominator": 2,
+      "label": "1又1/2"
+    },
+    "averagePlacement": 1.5,
+    "bonus": 1,
+    "placementCounts": {
+      "first": {
+        "numerator": 0,
+        "denominator": 1,
+        "label": "0"
+      },
+      "second": {
+        "numerator": 1,
+        "denominator": 2,
+        "label": "1/2"
+      },
+      "third": {
+        "numerator": 1,
+        "denominator": 2,
+        "label": "1/2"
+      },
+      "fourth": {
+        "numerator": 0,
+        "denominator": 1,
+        "label": "0"
+      }
+    }
+  },
+  {
+    "rank": 9,
+    "name": "G2",
+    "club": "Team Gamma",
+    "totalPoints": -30,
+    "standardPoints": {
+      "numerator": 3,
+      "denominator": 2,
+      "label": "1又1/2"
+    },
+    "standardPointPenalty": {
+      "numerator": 0,
+      "denominator": 1,
+      "label": "0"
+    },
+    "adjustedStandardPoints": {
+      "numerator": 3,
+      "denominator": 2,
+      "label": "1又1/2"
+    },
+    "averagePlacement": 0.75,
+    "bonus": 2,
+    "placementCounts": {
+      "first": {
+        "numerator": 0,
+        "denominator": 1,
+        "label": "0"
+      },
+      "second": {
+        "numerator": 1,
+        "denominator": 2,
+        "label": "1/2"
+      },
+      "third": {
+        "numerator": 1,
+        "denominator": 2,
+        "label": "1/2"
+      },
+      "fourth": {
+        "numerator": 1,
+        "denominator": 1,
+        "label": "1"
+      }
+    }
+  },
+  {
+    "rank": 10,
+    "name": "A4",
+    "club": "Team Alpha",
+    "totalPoints": -15,
+    "standardPoints": {
+      "numerator": 1,
+      "denominator": 1,
+      "label": "1"
+    },
+    "standardPointPenalty": {
+      "numerator": 0,
+      "denominator": 1,
+      "label": "0"
+    },
+    "adjustedStandardPoints": {
+      "numerator": 1,
+      "denominator": 1,
+      "label": "1"
+    },
+    "averagePlacement": 1,
+    "bonus": 1,
+    "placementCounts": {
+      "first": {
+        "numerator": 0,
+        "denominator": 1,
+        "label": "0"
+      },
+      "second": {
+        "numerator": 0,
+        "denominator": 1,
+        "label": "0"
+      },
+      "third": {
+        "numerator": 1,
+        "denominator": 1,
+        "label": "1"
+      },
+      "fourth": {
+        "numerator": 0,
+        "denominator": 1,
+        "label": "0"
+      }
+    }
+  },
+  {
+    "rank": 11,
+    "name": "A2",
+    "club": "Team Alpha",
+    "totalPoints": -85,
+    "standardPoints": {
+      "numerator": 0,
+      "denominator": 1,
+      "label": "0"
+    },
+    "standardPointPenalty": {
+      "numerator": 0,
+      "denominator": 1,
+      "label": "0"
+    },
+    "adjustedStandardPoints": {
+      "numerator": 0,
+      "denominator": 1,
+      "label": "0"
+    },
+    "averagePlacement": 0,
+    "bonus": 2,
+    "placementCounts": {
+      "first": {
+        "numerator": 0,
+        "denominator": 1,
+        "label": "0"
+      },
+      "second": {
+        "numerator": 0,
+        "denominator": 1,
+        "label": "0"
+      },
+      "third": {
+        "numerator": 0,
+        "denominator": 1,
+        "label": "0"
+      },
+      "fourth": {
+        "numerator": 2,
+        "denominator": 1,
+        "label": "2"
+      }
+    }
+  },
+  {
+    "rank": 12,
+    "name": "B4",
+    "club": "Team Beta",
+    "totalPoints": -30,
+    "standardPoints": {
+      "numerator": 0,
+      "denominator": 1,
+      "label": "0"
+    },
+    "standardPointPenalty": {
+      "numerator": 1,
+      "denominator": 1,
+      "label": "1"
+    },
+    "adjustedStandardPoints": {
+      "numerator": -1,
+      "denominator": 1,
+      "label": "-1"
+    },
+    "averagePlacement": 0,
+    "bonus": 1,
+    "placementCounts": {
+      "first": {
+        "numerator": 0,
+        "denominator": 1,
+        "label": "0"
+      },
+      "second": {
+        "numerator": 0,
+        "denominator": 1,
+        "label": "0"
+      },
+      "third": {
+        "numerator": 0,
+        "denominator": 1,
+        "label": "0"
+      },
+      "fourth": {
+        "numerator": 1,
+        "denominator": 1,
+        "label": "1"
+      }
+    }
+  }
+]

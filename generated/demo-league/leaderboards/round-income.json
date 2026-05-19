@@ -1,0 +1,326 @@
+[
+  {
+    "rank": 1,
+    "name": "B3",
+    "team": "Team Beta",
+    "rounds": 5,
+    "pointWin": {
+      "count": 5,
+      "averageFan": 10,
+      "income": 170
+    },
+    "dealIn": {
+      "count": 0,
+      "averageFan": 0,
+      "income": 0
+    },
+    "selfDraw": {
+      "count": 0,
+      "averageFan": 0,
+      "income": 0
+    },
+    "drawnByOthers": {
+      "count": 0,
+      "averageFan": 0,
+      "income": 0
+    },
+    "roundIncome": 34
+  },
+  {
+    "rank": 2,
+    "name": "A1",
+    "team": "Team Alpha",
+    "rounds": 10,
+    "pointWin": {
+      "count": 10,
+      "averageFan": 7.6,
+      "income": 316
+    },
+    "dealIn": {
+      "count": 0,
+      "averageFan": 0,
+      "income": 0
+    },
+    "selfDraw": {
+      "count": 0,
+      "averageFan": 0,
+      "income": 0
+    },
+    "drawnByOthers": {
+      "count": 0,
+      "averageFan": 0,
+      "income": 0
+    },
+    "roundIncome": 31.6
+  },
+  {
+    "rank": 3,
+    "name": "G1",
+    "team": "Team Gamma",
+    "rounds": 9,
+    "pointWin": {
+      "count": 5,
+      "averageFan": 6,
+      "income": 150
+    },
+    "dealIn": {
+      "count": 0,
+      "averageFan": 0,
+      "income": 0
+    },
+    "selfDraw": {
+      "count": 0,
+      "averageFan": 0,
+      "income": 0
+    },
+    "drawnByOthers": {
+      "count": 0,
+      "averageFan": 0,
+      "income": 0
+    },
+    "roundIncome": 16.666667
+  },
+  {
+    "rank": 4,
+    "name": "B2",
+    "team": "Team Beta",
+    "rounds": 6,
+    "pointWin": {
+      "count": 0,
+      "averageFan": 0,
+      "income": 0
+    },
+    "dealIn": {
+      "count": 0,
+      "averageFan": 0,
+      "income": 0
+    },
+    "selfDraw": {
+      "count": 0,
+      "averageFan": 0,
+      "income": 0
+    },
+    "drawnByOthers": {
+      "count": 0,
+      "averageFan": 0,
+      "income": 0
+    },
+    "roundIncome": 0
+  },
+  {
+    "rank": 5,
+    "name": "A3",
+    "team": "Team Alpha",
+    "rounds": 5,
+    "pointWin": {
+      "count": 0,
+      "averageFan": 0,
+      "income": 0
+    },
+    "dealIn": {
+      "count": 0,
+      "averageFan": 0,
+      "income": 0
+    },
+    "selfDraw": {
+      "count": 0,
+      "averageFan": 0,
+      "income": 0
+    },
+    "drawnByOthers": {
+      "count": 0,
+      "averageFan": 0,
+      "income": 0
+    },
+    "roundIncome": 0
+  },
+  {
+    "rank": 6,
+    "name": "A4",
+    "team": "Team Alpha",
+    "rounds": 5,
+    "pointWin": {
+      "count": 0,
+      "averageFan": 0,
+      "income": 0
+    },
+    "dealIn": {
+      "count": 0,
+      "averageFan": 0,
+      "income": 0
+    },
+    "selfDraw": {
+      "count": 0,
+      "averageFan": 0,
+      "income": 0
+    },
+    "drawnByOthers": {
+      "count": 0,
+      "averageFan": 0,
+      "income": 0
+    },
+    "roundIncome": 0
+  },
+  {
+    "rank": 7,
+    "name": "G3",
+    "team": "Team Gamma",
+    "rounds": 5,
+    "pointWin": {
+      "count": 0,
+      "averageFan": 0,
+      "income": 0
+    },
+    "dealIn": {
+      "count": 0,
+      "averageFan": 0,
+      "income": 0
+    },
+    "selfDraw": {
+      "count": 0,
+      "averageFan": 0,
+      "income": 0
+    },
+    "drawnByOthers": {
+      "count": 0,
+      "averageFan": 0,
+      "income": 0
+    },
+    "roundIncome": 0
+  },
+  {
+    "rank": 8,
+    "name": "G4",
+    "team": "Team Gamma",
+    "rounds": 5,
+    "pointWin": {
+      "count": 0,
+      "averageFan": 0,
+      "income": 0
+    },
+    "dealIn": {
+      "count": 0,
+      "averageFan": 0,
+      "income": 0
+    },
+    "selfDraw": {
+      "count": 0,
+      "averageFan": 0,
+      "income": 0
+    },
+    "drawnByOthers": {
+      "count": 0,
+      "averageFan": 0,
+      "income": 0
+    },
+    "roundIncome": 0
+  },
+  {
+    "rank": 9,
+    "name": "B1",
+    "team": "Team Beta",
+    "rounds": 10,
+    "pointWin": {
+      "count": 0,
+      "averageFan": 0,
+      "income": 0
+    },
+    "dealIn": {
+      "count": 4,
+      "averageFan": 7,
+      "income": -60
+    },
+    "selfDraw": {
+      "count": 0,
+      "averageFan": 0,
+      "income": 0
+    },
+    "drawnByOthers": {
+      "count": 0,
+      "averageFan": 0,
+      "income": 0
+    },
+    "roundIncome": -6
+  },
+  {
+    "rank": 10,
+    "name": "G2",
+    "team": "Team Gamma",
+    "rounds": 9,
+    "pointWin": {
+      "count": 0,
+      "averageFan": 0,
+      "income": 0
+    },
+    "dealIn": {
+      "count": 5,
+      "averageFan": 6,
+      "income": -70
+    },
+    "selfDraw": {
+      "count": 0,
+      "averageFan": 0,
+      "income": 0
+    },
+    "drawnByOthers": {
+      "count": 0,
+      "averageFan": 0,
+      "income": 0
+    },
+    "roundIncome": -7.777778
+  },
+  {
+    "rank": 11,
+    "name": "A2",
+    "team": "Team Alpha",
+    "rounds": 6,
+    "pointWin": {
+      "count": 0,
+      "averageFan": 0,
+      "income": 0
+    },
+    "dealIn": {
+      "count": 6,
+      "averageFan": 8,
+      "income": -96
+    },
+    "selfDraw": {
+      "count": 0,
+      "averageFan": 0,
+      "income": 0
+    },
+    "drawnByOthers": {
+      "count": 0,
+      "averageFan": 0,
+      "income": 0
+    },
+    "roundIncome": -16
+  },
+  {
+    "rank": 12,
+    "name": "B4",
+    "team": "Team Beta",
+    "rounds": 5,
+    "pointWin": {
+      "count": 0,
+      "averageFan": 0,
+      "income": 0
+    },
+    "dealIn": {
+      "count": 5,
+      "averageFan": 10,
+      "income": -90
+    },
+    "selfDraw": {
+      "count": 0,
+      "averageFan": 0,
+      "income": 0
+    },
+    "drawnByOthers": {
+      "count": 0,
+      "averageFan": 0,
+      "income": 0
+    },
+    "roundIncome": -18
+  }
+]

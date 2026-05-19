@@ -1,0 +1,191 @@
+[
+  {
+    "id": "SESS0004",
+    "replayUrl": "https://tziakcha.net/game/?id=SESS0004",
+    "round": 2,
+    "tableName": "B 桌",
+    "roundLabel": "常规赛第 2 轮",
+    "finishedAt": "05/07 01:53",
+    "placements": [
+      {
+        "placement": 1,
+        "team": "Team Alpha",
+        "player": "A1",
+        "score": 25,
+        "scoreLabel": "+25"
+      },
+      {
+        "placement": 2,
+        "team": "Team Gamma",
+        "player": "G1",
+        "score": -5,
+        "scoreLabel": "-5"
+      },
+      {
+        "placement": 3,
+        "team": "Team Gamma",
+        "player": "G2",
+        "score": -5,
+        "scoreLabel": "-5"
+      },
+      {
+        "placement": 4,
+        "team": "Team Beta",
+        "player": "B1",
+        "score": -15,
+        "scoreLabel": "-15"
+      }
+    ]
+  },
+  {
+    "id": "SESS0003",
+    "replayUrl": "https://tziakcha.net/game/?id=SESS0003",
+    "round": 2,
+    "tableName": "A 桌",
+    "roundLabel": "常规赛第 2 轮",
+    "finishedAt": "05/07 00:53",
+    "placements": [
+      {
+        "placement": 1,
+        "team": "Team Beta",
+        "player": "B3",
+        "score": 50,
+        "scoreLabel": "+50"
+      },
+      {
+        "placement": 2,
+        "team": "Team Gamma",
+        "player": "G3",
+        "score": -10,
+        "scoreLabel": "-10"
+      },
+      {
+        "placement": 3,
+        "team": "Team Gamma",
+        "player": "G4",
+        "score": -10,
+        "scoreLabel": "-10"
+      },
+      {
+        "placement": 4,
+        "team": "Team Beta",
+        "player": "B4",
+        "score": -30,
+        "scoreLabel": "-30"
+      }
+    ]
+  },
+  {
+    "id": "SESS0002",
+    "replayUrl": "https://tziakcha.net/game/?id=SESS0002",
+    "round": 1,
+    "tableName": "B 桌",
+    "roundLabel": "常规赛第 1 轮",
+    "finishedAt": "05/06 01:53",
+    "placements": [
+      {
+        "placement": 1,
+        "team": "Team Gamma",
+        "player": "G1",
+        "score": 30,
+        "scoreLabel": "+30"
+      },
+      {
+        "placement": 2,
+        "team": "Team Alpha",
+        "player": "A3",
+        "score": 10,
+        "scoreLabel": "+10"
+      },
+      {
+        "placement": 3,
+        "team": "Team Alpha",
+        "player": "A4",
+        "score": -15,
+        "scoreLabel": "-15"
+      },
+      {
+        "placement": 4,
+        "team": "Team Gamma",
+        "player": "G2",
+        "score": -25,
+        "scoreLabel": "-25"
+      }
+    ]
+  },
+  {
+    "id": "SESS0001",
+    "replayUrl": "https://tziakcha.net/game/?id=SESS0001",
+    "round": 1,
+    "tableName": "A 桌",
+    "roundLabel": "常规赛第 1 轮",
+    "finishedAt": "05/06 00:53",
+    "placements": [
+      {
+        "placement": 1,
+        "team": "Team Alpha",
+        "player": "A1",
+        "score": 45,
+        "scoreLabel": "+45"
+      },
+      {
+        "placement": 2,
+        "team": "Team Beta",
+        "player": "B2",
+        "score": -10,
+        "scoreLabel": "-10"
+      },
+      {
+        "placement": 3,
+        "team": "Team Beta",
+        "player": "B1",
+        "score": -15,
+        "scoreLabel": "-15"
+      },
+      {
+        "placement": 4,
+        "team": "Team Alpha",
+        "player": "A2",
+        "score": -20,
+        "scoreLabel": "-20"
+      }
+    ]
+  },
+  {
+    "id": "offline-r01-a",
+    "round": 1,
+    "tableName": "A 桌",
+    "roundLabel": "常规赛第 1 轮",
+    "finishedAt": "测试线下",
+    "placements": [
+      {
+        "placement": 1,
+        "team": "Team Alpha",
+        "player": "A1",
+        "score": 85,
+        "scoreLabel": "+85"
+      },
+      {
+        "placement": 2,
+        "team": "Team Beta",
+        "player": "B1",
+        "score": 10,
+        "scoreLabel": "+10"
+      },
+      {
+        "placement": 3,
+        "team": "Team Gamma",
+        "player": "G1",
+        "score": -30,
+        "scoreLabel": "-30"
+      },
+      {
+        "placement": 4,
+        "team": "Team Alpha",
+        "player": "A2",
+        "score": -65,
+        "scoreLabel": "-65"
+      }
+    ]
+  }
+]

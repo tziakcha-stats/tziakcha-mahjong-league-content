@@ -1,0 +1,134 @@
+[
+  {
+    "rank": 1,
+    "name": "Team Alpha",
+    "totalPoints": 65,
+    "standardPoints": {
+      "numerator": 15,
+      "denominator": 1,
+      "label": "15"
+    },
+    "standardPointPenalty": {
+      "numerator": 0,
+      "denominator": 1,
+      "label": "0"
+    },
+    "adjustedStandardPoints": {
+      "numerator": 15,
+      "denominator": 1,
+      "label": "15"
+    },
+    "averageStandardPoints": 3.75,
+    "matchCount": 4,
+    "placementCounts": {
+      "first": {
+        "numerator": 3,
+        "denominator": 1,
+        "label": "3"
+      },
+      "second": {
+        "numerator": 1,
+        "denominator": 1,
+        "label": "1"
+      },
+      "third": {
+        "numerator": 1,
+        "denominator": 1,
+        "label": "1"
+      },
+      "fourth": {
+        "numerator": 2,
+        "denominator": 1,
+        "label": "2"
+      }
+    }
+  },
+  {
+    "rank": 2,
+    "name": "Team Gamma",
+    "totalPoints": -55,
+    "standardPoints": {
+      "numerator": 11,
+      "denominator": 1,
+      "label": "11"
+    },
+    "standardPointPenalty": {
+      "numerator": 0,
+      "denominator": 1,
+      "label": "0"
+    },
+    "adjustedStandardPoints": {
+      "numerator": 11,
+      "denominator": 1,
+      "label": "11"
+    },
+    "averageStandardPoints": 2.75,
+    "matchCount": 4,
+    "placementCounts": {
+      "first": {
+        "numerator": 1,
+        "denominator": 1,
+        "label": "1"
+      },
+      "second": {
+        "numerator": 2,
+        "denominator": 1,
+        "label": "2"
+      },
+      "third": {
+        "numerator": 3,
+        "denominator": 1,
+        "label": "3"
+      },
+      "fourth": {
+        "numerator": 1,
+        "denominator": 1,
+        "label": "1"
+      }
+    }
+  },
+  {
+    "rank": 3,
+    "name": "Team Beta",
+    "totalPoints": -10,
+    "standardPoints": {
+      "numerator": 9,
+      "denominator": 1,
+      "label": "9"
+    },
+    "standardPointPenalty": {
+      "numerator": 2,
+      "denominator": 1,
+      "label": "2"
+    },
+    "adjustedStandardPoints": {
+      "numerator": 7,
+      "denominator": 1,
+      "label": "7"
+    },
+    "averageStandardPoints": 2.25,
+    "matchCount": 4,
+    "placementCounts": {
+      "first": {
+        "numerator": 1,
+        "denominator": 1,
+        "label": "1"
+      },
+      "second": {
+        "numerator": 2,
+        "denominator": 1,
+        "label": "2"
+      },
+      "third": {
+        "numerator": 1,
+        "denominator": 1,
+        "label": "1"
+      },
+      "fourth": {
+        "numerator": 2,
+        "denominator": 1,
+        "label": "2"
+      }
+    }
+  }
+]

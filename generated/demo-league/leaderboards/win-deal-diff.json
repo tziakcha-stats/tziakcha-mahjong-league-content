@@ -1,0 +1,122 @@
+[
+  {
+    "rank": 1,
+    "name": "A1",
+    "team": "Team Alpha",
+    "rate": 0.35,
+    "dealInRate": 0.2,
+    "rateDiff": 0.15,
+    "count": 20,
+    "note": "和牌率 35.0%，放铳率 20.0%，来源：rate_win_rate.csv + rate_deal_in_rate.csv"
+  },
+  {
+    "rank": 2,
+    "name": "B3",
+    "team": "Team Beta",
+    "rate": 0.3,
+    "dealInRate": 0.18,
+    "rateDiff": 0.12,
+    "count": 20,
+    "note": "和牌率 30.0%，放铳率 18.0%，来源：rate_win_rate.csv + rate_deal_in_rate.csv"
+  },
+  {
+    "rank": 3,
+    "name": "G1",
+    "team": "Team Gamma",
+    "rate": 0.25,
+    "dealInRate": 0.17,
+    "rateDiff": 0.08,
+    "count": 20,
+    "note": "和牌率 25.0%，放铳率 17.0%，来源：rate_win_rate.csv + rate_deal_in_rate.csv"
+  },
+  {
+    "rank": 4,
+    "name": "A3",
+    "team": "Team Alpha",
+    "rate": 0.2,
+    "dealInRate": 0.16,
+    "rateDiff": 0.04,
+    "count": 20,
+    "note": "和牌率 20.0%，放铳率 16.0%，来源：rate_win_rate.csv + rate_deal_in_rate.csv"
+  },
+  {
+    "rank": 5,
+    "name": "B1",
+    "team": "Team Beta",
+    "rate": 0.18,
+    "dealInRate": 0.15,
+    "rateDiff": 0.03,
+    "count": 20,
+    "note": "和牌率 18.0%，放铳率 15.0%，来源：rate_win_rate.csv + rate_deal_in_rate.csv"
+  },
+  {
+    "rank": 6,
+    "name": "A2",
+    "team": "Team Alpha",
+    "rate": 0.15,
+    "dealInRate": 0.13,
+    "rateDiff": 0.02,
+    "count": 20,
+    "note": "和牌率 15.0%，放铳率 13.0%，来源：rate_win_rate.csv + rate_deal_in_rate.csv"
+  },
+  {
+    "rank": 7,
+    "name": "A4",
+    "team": "Team Alpha",
+    "rate": 0.12,
+    "dealInRate": 0.1,
+    "rateDiff": 0.02,
+    "count": 20,
+    "note": "和牌率 12.0%，放铳率 10.0%，来源：rate_win_rate.csv + rate_deal_in_rate.csv"
+  },
+  {
+    "rank": 8,
+    "name": "B2",
+    "team": "Team Beta",
+    "rate": 0.14,
+    "dealInRate": 0.12,
+    "rateDiff": 0.02,
+    "count": 20,
+    "note": "和牌率 14.0%，放铳率 12.0%，来源：rate_win_rate.csv + rate_deal_in_rate.csv"
+  },
+  {
+    "rank": 9,
+    "name": "B4",
+    "team": "Team Beta",
+    "rate": 0.11,
+    "dealInRate": 0.09,
+    "rateDiff": 0.02,
+    "count": 20,
+    "note": "和牌率 11.0%，放铳率 9.0%，来源：rate_win_rate.csv + rate_deal_in_rate.csv"
+  },
+  {
+    "rank": 10,
+    "name": "G2",
+    "team": "Team Gamma",
+    "rate": 0.13,
+    "dealInRate": 0.11,
+    "rateDiff": 0.02,
+    "count": 20,
+    "note": "和牌率 13.0%，放铳率 11.0%，来源：rate_win_rate.csv + rate_deal_in_rate.csv"
+  },
+  {
+    "rank": 11,
+    "name": "G3",
+    "team": "Team Gamma",
+    "rate": 0.16,
+    "dealInRate": 0.14,
+    "rateDiff": 0.02,
+    "count": 20,
+    "note": "和牌率 16.0%，放铳率 14.0%，来源：rate_win_rate.csv + rate_deal_in_rate.csv"
+  },
+  {
+    "rank": 12,
+    "name": "G4",
+    "team": "Team Gamma",
+    "rate": 0.1,
+    "dealInRate": 0.08,
+    "rateDiff": 0.02,
+    "count": 20,
+    "note": "和牌率 10.0%，放铳率 8.0%，来源：rate_win_rate.csv + rate_deal_in_rate.csv"
+  }
+]
