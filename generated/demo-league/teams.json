@@ -10,7 +10,8 @@
       "A4"
     ],
     "record": "16 和 / 1 自摸 / 12 放铳 / 9 被自摸",
-    "note": "由后端生成脚本根据 team.json 与 rank/*.csv 聚合生成。"
+    "note": "由后端生成脚本根据 team.json 与 rank/*.csv 聚合生成。",
+    "color": "#4A90D9"
   },
   {
     "id": "2",
@@ -23,7 +24,8 @@
       "B4"
     ],
     "record": "15 和 / 1 自摸 / 11 放铳 / 8 被自摸",
-    "note": "由后端生成脚本根据 team.json 与 rank/*.csv 聚合生成。"
+    "note": "由后端生成脚本根据 team.json 与 rank/*.csv 聚合生成。",
+    "color": "#E74C3C"
   },
   {
     "id": "3",
@@ -36,6 +38,7 @@
       "G4"
     ],
     "record": "13 和 / 1 自摸 / 10 放铳 / 8 被自摸",
-    "note": "由后端生成脚本根据 team.json 与 rank/*.csv 聚合生成。"
+    "note": "由后端生成脚本根据 team.json 与 rank/*.csv 聚合生成。",
+    "color": "#2ECC71"
   }
 ]
