@@ -1,6 +1,20 @@
 {
   "qiduiSiguilYisi": [],
-  "xintuShang": [],
+  "xintuShang": [
+    {
+      "winner": "吴下阿濛",
+      "winnerTeam": "绿小龙",
+      "totalFan": 29,
+      "roundLabel": "常规赛第 60 轮",
+      "tableName": "B 桌",
+      "replayUrl": "https://tziakcha.net/game/?id=Hxu1Bkm6",
+      "matchId": "Hxu1Bkm6",
+      "recordId": "ups4Mokx",
+      "roundNo": 8,
+      "finishedAt": "05/10 20:50",
+      "hand": "77m22558899p6677s"
+    }
+  ],
   "wodeHongwu": [
     {
       "winner": "ChaosDon",
