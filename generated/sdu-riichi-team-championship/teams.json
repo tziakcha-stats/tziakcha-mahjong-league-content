@@ -10,7 +10,8 @@
       "南桥s01"
     ],
     "record": "155 和 / 47 自摸 / 107 放铳 / 129 被自摸",
-    "note": "由后端生成脚本根据 team.json 与 rank/*.csv 聚合生成。"
+    "note": "由后端生成脚本根据 team.json 与 rank/*.csv 聚合生成。",
+    "color": "#C2A3C6"
   },
   {
     "id": "2",
@@ -23,7 +24,8 @@
       "海叔利安"
     ],
     "record": "138 和 / 34 自摸 / 106 放铳 / 134 被自摸",
-    "note": "由后端生成脚本根据 team.json 与 rank/*.csv 聚合生成。"
+    "note": "由后端生成脚本根据 team.json 与 rank/*.csv 聚合生成。",
+    "color": "#EC672B"
   },
   {
     "id": "3",
@@ -36,7 +38,8 @@
       "黄腾"
     ],
     "record": "181 和 / 50 自摸 / 115 放铳 / 126 被自摸",
-    "note": "由后端生成脚本根据 team.json 与 rank/*.csv 聚合生成。"
+    "note": "由后端生成脚本根据 team.json 与 rank/*.csv 聚合生成。",
+    "color": "#F6DF88"
   },
   {
     "id": "4",
@@ -49,7 +52,8 @@
       "xixi"
     ],
     "record": "168 和 / 45 自摸 / 100 放铳 / 124 被自摸",
-    "note": "由后端生成脚本根据 team.json 与 rank/*.csv 聚合生成。"
+    "note": "由后端生成脚本根据 team.json 与 rank/*.csv 聚合生成。",
+    "color": "#A5CC4F"
   },
   {
     "id": "5",
@@ -62,7 +66,8 @@
       "吴下阿濛"
     ],
     "record": "187 和 / 51 自摸 / 106 放铳 / 148 被自摸",
-    "note": "由后端生成脚本根据 team.json 与 rank/*.csv 聚合生成。"
+    "note": "由后端生成脚本根据 team.json 与 rank/*.csv 聚合生成。",
+    "color": "#D4EEB2"
   },
   {
     "id": "6",
@@ -75,7 +80,8 @@
       "Quandaiwu42"
     ],
     "record": "153 和 / 41 自摸 / 111 放铳 / 96 被自摸",
-    "note": "由后端生成脚本根据 team.json 与 rank/*.csv 聚合生成。"
+    "note": "由后端生成脚本根据 team.json 与 rank/*.csv 聚合生成。",
+    "color": "#80CAFA"
   },
   {
     "id": "7",
@@ -88,7 +94,8 @@
       "三只大土鳖"
     ],
     "record": "165 和 / 36 自摸 / 96 放铳 / 141 被自摸",
-    "note": "由后端生成脚本根据 team.json 与 rank/*.csv 聚合生成。"
+    "note": "由后端生成脚本根据 team.json 与 rank/*.csv 聚合生成。",
+    "color": "#102EA0"
   },
   {
     "id": "8",
@@ -101,7 +108,8 @@
       "redbean"
     ],
     "record": "150 和 / 32 自摸 / 129 放铳 / 140 被自摸",
-    "note": "由后端生成脚本根据 team.json 与 rank/*.csv 聚合生成。"
+    "note": "由后端生成脚本根据 team.json 与 rank/*.csv 聚合生成。",
+    "color": "#F7D1D0"
   },
   {
     "id": "9",
@@ -114,7 +122,8 @@
       "足立レイ"
     ],
     "record": "155 和 / 61 自摸 / 142 放铳 / 139 被自摸",
-    "note": "由后端生成脚本根据 team.json 与 rank/*.csv 聚合生成。"
+    "note": "由后端生成脚本根据 team.json 与 rank/*.csv 聚合生成。",
+    "color": "#82C196"
   },
   {
     "id": "10",
@@ -127,6 +136,7 @@
       "QinNai"
     ],
     "record": "131 和 / 40 自摸 / 134 放铳 / 134 被自摸",
-    "note": "由后端生成脚本根据 team.json 与 rank/*.csv 聚合生成。"
+    "note": "由后端生成脚本根据 team.json 与 rank/*.csv 聚合生成。",
+    "color": "#ED72B2"
   }
 ]
